@@ -50,34 +50,39 @@
 
 ## 📈 GitHub Stats
 
-![Remisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remisu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Remisu&layout=compact&theme=radical&hide_border=true)
-![Profile Views](https://komarev.com/ghpvc/?username=Remisu&color=blue)
+![Remisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=remisu&show_icons=true&theme=radical&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remisu&layout=compact&theme=radical&hide_border=true&cache_seconds=7200)
+![Profile Views](https://komarev.com/ghpvc/?username=remisu&color=blue)
 
 ---
 
 ## 📦 Featured Repo Cards
-[![StockTrack](https://github-readme-stats.vercel.app/api/pin/?username=Remisu&repo=stocktrack&theme=radical)](https://github.com/Remisu/stocktrack)
-[![Gajyun Portal](https://github-readme-stats.vercel.app/api/pin/?username=Remisu&repo=gajyun-portal&theme=radical)](https://github.com/Remisu/gajyun-portal)
+
+[![StockTrack](https://github-readme-stats.vercel.app/api/pin/?username=remisu&repo=stocktrack&theme=radical&cache_seconds=7200)](https://github.com/Remisu/stocktrack)
+[![Gajyun Portal](https://github-readme-stats.vercel.app/api/pin/?username=remisu&repo=gajyun-portal&theme=radical&cache_seconds=7200)](https://github.com/Remisu/gajyun-portal)
 
 ---
 
 ## 📊 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Remisu&theme=tokyo-night&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=remisu&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 🏅 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Remisu&theme=onedark&row=1&margin-w=8&margin-h=8)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=remisu&theme=onedark&row=1&margin-w=8&margin-h=8)
 
 ---
 
 ## 👀 Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=Remisu&color=blue)
+
+![Profile Views](https://komarev.com/ghpvc/?username=remisu&color=blue)
 
 ---
 
 ## ⏱️ Repo Activity
+
 ![Last Commit – StockTrack](https://img.shields.io/github/last-commit/Remisu/stocktrack?label=last%20commit%20📝)
 ![Issues – StockTrack](https://img.shields.io/github/issues/Remisu/stocktrack)
 ![Stars – StockTrack](https://img.shields.io/github/stars/Remisu/stocktrack?style=social)
