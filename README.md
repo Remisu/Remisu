@@ -2,7 +2,7 @@
 
 💻 **Full Stack Developer**  
 📍 Based in Kyoto, Japan  
-🇯🇵 JLPT N4 certified – currently preparing for N3 (December 2025)
+🇯🇵 JLPT N4 certified – currently preparing for N3 (July 2026)
 
 ---
 
@@ -15,15 +15,22 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![WPF](https://img.shields.io/badge/-WPF-68217A?style=flat&logo=windows&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![YARP](https://img.shields.io/badge/-YARP-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
 ### 🚀 Featured Projects
+
+- 🗓️ [LeaveFlow](https://github.com/Remisu/LeaveFlow):  
+  Vacation management system built with **microservices** using **.NET 10**, **React + TypeScript**, and **PostgreSQL**.  
+  Includes an **API Gateway (YARP)**, **JWT auth**, **CQRS (MediatR)**, Docker Compose, and role-based access (**Admin, Manager, Collaborator**) with vacation approval workflows and conflict validation.
 
 - 📦 [StockTrack](https://github.com/Remisu/stocktrack):  
   Inventory and sales management platform built with **React, Node.js, Prisma, TypeScript**, and **MySQL**, featuring product tracking, supplier management, and automated reports.
@@ -48,30 +55,43 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Overview
 
-![Remisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=remisu&show_icons=true&theme=radical&cache_seconds=7200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remisu&layout=compact&theme=radical&hide_border=true&cache_seconds=7200)
+![Followers](https://img.shields.io/github/followers/remisu?label=followers&style=flat)
+![Stars](https://img.shields.io/github/stars/remisu?label=total%20stars&style=flat)
+![Public Repos](https://img.shields.io/badge/dynamic/json?label=public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fremisu)
 ![Profile Views](https://komarev.com/ghpvc/?username=remisu&color=blue)
 
 ---
 
-## 📦 Featured Repo Cards
+## 📌 Highlighted Repos
 
-[![StockTrack](https://github-readme-stats.vercel.app/api/pin/?username=remisu&repo=stocktrack&theme=radical&cache_seconds=7200)](https://github.com/Remisu/stocktrack)
-[![Gajyun Portal](https://github-readme-stats.vercel.app/api/pin/?username=remisu&repo=gajyun-portal&theme=radical&cache_seconds=7200)](https://github.com/Remisu/gajyun-portal)
+- 🗓️ [LeaveFlow](https://github.com/Remisu/LeaveFlow)  
+  ![Stars](https://img.shields.io/github/stars/Remisu/LeaveFlow?style=flat)
+  ![Issues](https://img.shields.io/github/issues/Remisu/LeaveFlow?style=flat)
+  ![Last commit](https://img.shields.io/github/last-commit/Remisu/LeaveFlow?style=flat)
+
+- 📦 [StockTrack](https://github.com/Remisu/stocktrack)  
+  ![Stars](https://img.shields.io/github/stars/Remisu/stocktrack?style=flat)
+  ![Issues](https://img.shields.io/github/issues/Remisu/stocktrack?style=flat)
+  ![Last commit](https://img.shields.io/github/last-commit/Remisu/stocktrack?style=flat)
+
+- 🏠 [Gajyun Portal](https://github.com/Remisu/gajyun-portal)  
+  ![Stars](https://img.shields.io/github/stars/Remisu/gajyun-portal?style=flat)
+  ![Issues](https://img.shields.io/github/issues/Remisu/gajyun-portal?style=flat)
+  ![Last commit](https://img.shields.io/github/last-commit/Remisu/gajyun-portal?style=flat)
 
 ---
 
 ## 📊 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=remisu&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=remisu&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 🏅 GitHub Trophies
+## 🐍 Contribution Snake
 
-![trophy](https://github-profile-trophy.vercel.app/?username=remisu&theme=onedark&row=1&margin-w=8&margin-h=8)
+![Snake animation](https://raw.githubusercontent.com/remisu/remisu/output/snake.svg)
 
 ---
 
@@ -82,6 +102,10 @@
 ---
 
 ## ⏱️ Repo Activity
+
+![Last Commit – LeaveFlow](https://img.shields.io/github/last-commit/Remisu/LeaveFlow?label=last%20commit%20📝)
+![Issues – LeaveFlow](https://img.shields.io/github/issues/Remisu/LeaveFlow)
+![Stars – LeaveFlow](https://img.shields.io/github/stars/Remisu/LeaveFlow?style=social)
 
 ![Last Commit – StockTrack](https://img.shields.io/github/last-commit/Remisu/stocktrack?label=last%20commit%20📝)
 ![Issues – StockTrack](https://img.shields.io/github/issues/Remisu/stocktrack)
