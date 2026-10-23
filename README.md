@@ -2,7 +2,7 @@
 
 💻 **Full Stack Developer**  
 📍 Based in Kyoto, Japan  
-🇯🇵 JLPT N4 certified – currently preparing for N3 (July 2026)
+🇯🇵 JLPT N4 certified – currently preparing for N3 (December 2026)
 
 ---
 
